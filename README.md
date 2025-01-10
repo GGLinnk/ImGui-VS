@@ -1,6 +1,9 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+**This project is unmaintained. A new version will born here [GGLinnk/ImGui-CMake](https://github.com/GGLinnk/ImGui-CMake)**
+
 # ImGui-VS
 A dependency based Visual Studio solution for ImGui.
-
 
 ## SDL2 - Download and configuration
 
